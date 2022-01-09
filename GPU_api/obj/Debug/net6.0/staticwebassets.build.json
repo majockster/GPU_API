@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pkXgsGN6SN3tAQsqtZNMQGhynMnXMneAIR3VMOdd3g8=",
+  "Source": "GPU_api",
+  "BasePath": "_content/GPU_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
