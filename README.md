@@ -15,3 +15,7 @@ With that scenario in mind, I wanted to learn and practice mostly backend concep
 ## Endpoints available with description
 
 ![271230331_323664929766177_5349601570132950499_n](https://user-images.githubusercontent.com/62301839/148711105-1458bb66-176b-4cd6-b0e5-2e0ec382c7a1.png)
+
+## Endpoint example
+
+![269938684_328740265790355_3817671025897803524_n](https://user-images.githubusercontent.com/62301839/148712180-08d3955e-93cc-43d9-bd3f-23589974dd28.png)
