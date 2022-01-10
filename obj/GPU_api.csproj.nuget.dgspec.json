@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\etpha\\Documents\\GPU_api\\GPU_api\\GPU_api.csproj": {}
+    "C:\\Users\\etpha\\Documents\\GitHub\\GPU_API\\GPU_api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\etpha\\Documents\\GPU_api\\GPU_api\\GPU_api.csproj": {
+    "C:\\Users\\etpha\\Documents\\GitHub\\GPU_API\\GPU_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\etpha\\Documents\\GPU_api\\GPU_api\\GPU_api.csproj",
+        "projectUniqueName": "C:\\Users\\etpha\\Documents\\GitHub\\GPU_API\\GPU_api.csproj",
         "projectName": "GPU_api",
-        "projectPath": "C:\\Users\\etpha\\Documents\\GPU_api\\GPU_api\\GPU_api.csproj",
+        "projectPath": "C:\\Users\\etpha\\Documents\\GitHub\\GPU_API\\GPU_api.csproj",
         "packagesPath": "C:\\Users\\etpha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\etpha\\Documents\\GPU_api\\GPU_api\\obj\\",
+        "outputPath": "C:\\Users\\etpha\\Documents\\GitHub\\GPU_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\etpha\\AppData\\Roaming\\NuGet\\NuGet.Config",

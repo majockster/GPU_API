@@ -24,10 +24,14 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseDeveloperExceptionPage();
 }
-
+app.UseSwagger();
+app.UseSwaggerUI(c => 
+{
+    c.RoutePrefix = "";
+    c.SwaggerEndpoint("/swagger/v1/swagger.json","GPU API");
+});
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
